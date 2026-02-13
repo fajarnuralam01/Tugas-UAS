@@ -33,6 +33,9 @@ Analisis mencakup tren waktu, pola operasional, dampak cuaca, segmentasi pelangg
 
 # Tampilan Dashboard
 
+<img width="925" height="420" alt="{441E45D5-47EE-4399-846C-127B1645CD95}" src="https://github.com/user-attachments/assets/221a3398-6b82-4968-a907-0b963e165f67" />
+
+
 # Link Dashboard
   - **Streamlit** : https://tugas-uas-q4wko9vqfpqxrkpqtxzlqu.streamlit.app/
 
@@ -60,5 +63,31 @@ Dashboard ini menjawab *12 Pertanyaan Bisnis* krusial :
     
 ---
 
+# Tahapan Analisis Data
+
+![WhatsApp Image 2026-02-13 at 17 16 05](https://github.com/user-attachments/assets/513a4155-e383-4dad-b14b-1e5e41b6931d)
 
 
+1. *Menentukan Pertanyaan Bisnis (Ask)* :
+   Merumuskan 12 pertanyaan kunci terkait tren pertumbuhan, pola operasional, dampak cuaca, dan perilaku pengguna untuk meningkatkan strategi bisnis.
+   
+2. *Menyiapkan Data (Prepare)* :
+   Mengumpulkan dataset Bike Sharing (day.csv & hour.csv) serta menyiapkan library Python (pandas, matplotlib, seaborn, folium, sklearn) untuk analisis.]
+  
+3. *Memproses Data (Process)* :
+   Membersihkan data dengan menangani missing values, mengubah tipe data tanggal (datetime), dan melakukan mapping label (musim, cuaca, hari) agar mudah diinterpretasi.
+
+4. *Exploratory Data Analysis (Analyze):*
+   Menganalisis data secara statistik dan visual untuk menjawab pertanyaan bisnis, serta menerapkan teknik lanjutan:
+    - *Clustering*  : Mengelompokkan hari terbaik (Golden Days).
+    - *Forecasting* : Memprediksi tren masa depan.
+    - *Geoanalysis* : Memetakan lokasi operasional strategis.
+
+
+5. *Visualisasi & Dashboard (Share)* :
+   Membangun dashboard interaktif berbasis *Streamlit* dengan fitur filter tanggal dan tab navigasi (Tren, Operasional, Cuaca, User, Advanced) untuk penyajian data yang efektif.
+   
+6. *Kesimpulan & Rekomendasi (Act)* :
+Menyusun strategi bisnis berdasarkan insight: fokus pada retensi member, optimasi stok di jam sibuk, dan mitigasi risiko operasional saat cuaca buruk.
+
+---
