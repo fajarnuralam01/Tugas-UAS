@@ -15,49 +15,49 @@ Analisis mencakup tren waktu, pola operasional, dampak cuaca, segmentasi pelangg
     (Fokus Analisis: Tren & Suhu
      Pertanyaan 1: Analisis performa penyewaan sepeda dalam beberapa tahun terakhir (Tren meningkat/menurun).
      Pertanyaan 2: Analisis korelasi antara suhu (temp) dengan jumlah penyewaan.
-     Bekerja sama dalam tim membangun  Advanced Analytics
-     Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
-     Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
+     - Bekerja sama dalam tim membangun  Advanced Analytics
+     - Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
+     - Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
     
   - Muhammad Rifky Sandi Yudha (10124027)<br>
     (Fokus Analisis: Jam Operasional & Hari Kerja
      Pertanyaan 3: Identifikasi jam lonjakan permintaan (peak hours) tertinggi dan terendah.
      Pertanyaan 4: Analisis perbedaan pola penyewaan antara hari kerja (workingday) vs hari
-     Bekerja sama dalam tim membangun  Advanced Analytics
-     Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
-     Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
+     - Bekerja sama dalam tim membangun  Advanced Analytics
+     - Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
+     - Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
     
   - Rizki Mardiansyah (10124036)<br>
     (Fokus Analisis: Musim & Kelembaban
      Pertanyaan 5: Identifikasi musim dengan tingkat penyewaan tertinggi untuk acuan promosi.
      Pertanyaan 6: Analisis pengaruh kelembaban udara (humidity) terhadap penyewaan.
-     Bekerja sama dalam tim membangun  Advanced Analytics
-     Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
-     Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
+     - Bekerja sama dalam tim membangun  Advanced Analytics
+     - Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
+     - Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
     
   - Rafi Faris Faizi (10124038)<br>
     (Fokus Analisis: Cuaca Ekstrem & Pola Mingguan
      Pertanyaan 7: Analisis pengaruh kondisi cuaca ekstrem (hujan/salju) terhadap penurunan penyewaan.
      Pertanyaan 8: Analisis distribusi penyewaan berdasarkan hari dalam seminggu (weekday).
-     Bekerja sama dalam tim membangun  Advanced Analytics
-     Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
-     Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
-    
+     - Bekerja sama dalam tim membangun  Advanced Analytics
+     - Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
+     - Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
+       
   - Fajar Nur Alam (10124039)<br>
     (Fokus Analisis: Tipe User & Angin
      Pertanyaan 9: Perbandingan proporsi pengguna Registered vs Casual.
      Pertanyaan 10: Analisis pengaruh kecepatan angin (windspeed) terhadap jumlah penyewaan.
-     Bekerja sama dalam tim membangun  Advanced Analytics
-     Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
-     Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
+     - Bekerja sama dalam tim membangun  Advanced Analytics
+     - Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
+     - Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
     
   - Joao Vong Tavares Da Silva (10124480)<br>
     (Fokus Analisis: Pola Bulanan & Perilaku User
      Pertanyaan 11: Analisis pola penyewaan bulanan dan identifikasi bulan tersepi.
      Pertanyaan 12: Analisis perbandingan pola jam penggunaan antara Casual vs Registered.
-     Bekerja sama dalam tim membangun  Advanced Analytics
-     Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
-     Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
+     - Bekerja sama dalam tim membangun  Advanced Analytics
+     - Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
+     - Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
     
 ---
 
