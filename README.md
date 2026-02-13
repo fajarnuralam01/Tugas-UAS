@@ -107,7 +107,7 @@ Menyusun strategi bisnis berdasarkan insight: fokus pada retensi member, optimas
 
 # Struktur Repository
 
-├── dashboard.jpeg        #Screenshot Dashboard<br>                                                                                                                                                                   
+├── dashboard.jpeg        #Screenshot Dashboard<br>
 ├── dashboard UAS.py      # File utama untuk menjalankan Dashboard Streamlit<br>
 ├── day.csv               # Dataset harian (sumber data utama)<br>
 ├── hour.csv              # Dataset per jam (sumber data untuk analisis jam)<br>
