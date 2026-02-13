@@ -91,3 +91,7 @@ Dashboard ini menjawab *12 Pertanyaan Bisnis* krusial :
 Menyusun strategi bisnis berdasarkan insight: fokus pada retensi member, optimasi stok di jam sibuk, dan mitigasi risiko operasional saat cuaca buruk.
 
 ---
+
+# Library yang Di gunakan
+
+
