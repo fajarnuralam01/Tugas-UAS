@@ -1,4 +1,6 @@
 # Tugas-UAS
+# Dashboard ini dibangun untuk menganalisis data penyewaan sepeda (Bike Sharing System) guna memberikan wawasan bisnis strategis bagi pengambil keputusan.
+  Analisis mencakup tren waktu, pola operasional, dampak cuaca, segmentasi pelanggan, hingga penerapan **Advanced Analytics** seperti Clustering dan Forecasting.
 ---
 # Bike Sharing Dashboard
 
