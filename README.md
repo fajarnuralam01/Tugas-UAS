@@ -141,7 +141,7 @@ Menyusun strategi bisnis berdasarkan insight: fokus pada retensi member, optimas
 ├── dashboard UAS.py      # File utama untuk menjalankan Dashboard Streamlit<br>
 ├── day.csv               # Dataset harian (sumber data utama)<br>
 ├── hour.csv              # Dataset per jam (sumber data untuk analisis jam)<br>
-├── IF1_Kelompok2.ipynb   # File Jupyter Notebook (tempat proses analisis data)<br>
+├── Tugas1_IF1_10124039.ipynb   # File Jupyter Notebook (tempat proses analisis data)<br>
 ├── requirements.txt      # Daftar library Python yang dibutuhkan (pip install)<br>
 └── README.md             # Dokumentasi lengkap proyek
 
