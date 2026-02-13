@@ -28,3 +28,15 @@ Analisis mencakup tren waktu, pola operasional, dampak cuaca, segmentasi pelangg
   - Joao Vong Tavares Da Silva (10124480)<br>
     ()
 ---
+
+# Tampilan Dashboard
+
+# Link Dashboard
+  - **Streamlit** : https://tugas-uas-q4wko9vqfpqxrkpqtxzlqu.streamlit.app/
+
+# Penjelasan
+  - **Youtube**   :
+
+---
+
+
