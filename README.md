@@ -13,8 +13,8 @@ Analisis mencakup tren waktu, pola operasional, dampak cuaca, segmentasi pelangg
 - **Anggota** :
   - Adrian Mulya Wijaya (10124016)<br>
     (Fokus Analisis: Tren & Suhu
-     Pertanyaan 1: Analisis performa penyewaan sepeda dalam beberapa tahun terakhir (Tren meningkat/menurun).
-     Pertanyaan 2: Analisis korelasi antara suhu (temp) dengan jumlah penyewaan.
+     - Pertanyaan 1: Analisis performa penyewaan sepeda dalam beberapa tahun terakhir (Tren meningkat/menurun).
+     - Pertanyaan 2: Analisis korelasi antara suhu (temp) dengan jumlah penyewaan.
      - Bekerja sama dalam tim membangun  Advanced Analytics
      - Bekerja sama dalam tim membangun Data Engineering (Penyedia Data)
      - Bekerja sama dalam tim membangun Deployment & Dashboard (Integrasi))
