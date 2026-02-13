@@ -40,7 +40,7 @@ Analisis mencakup tren waktu, pola operasional, dampak cuaca, segmentasi pelangg
   - **Streamlit** : https://tugas-uas-q4wko9vqfpqxrkpqtxzlqu.streamlit.app/
 
 # Penjelasan
-  - **Youtube**   :
+  - **Youtube**   : https://youtu.be/dFyN7Bfv_wA
 
 ---
 
