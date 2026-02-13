@@ -94,4 +94,15 @@ Menyusun strategi bisnis berdasarkan insight: fokus pada retensi member, optimas
 
 # Library yang Di gunakan
 
-1. 
+1. streamlit
+2. pandas
+3. matplotlib
+4. seaborn
+5. scikit-learn
+6. numpy
+7. folium
+8. streamlit-folium
+
+---
+
+
