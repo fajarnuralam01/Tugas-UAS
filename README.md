@@ -2,8 +2,8 @@
 
 ---
 # Bike Sharing Dashboard
-Dashboard ini dibangun untuk menganalisis data penyewaan sepeda (Bike Sharing System) guna memberikan wawasan bisnis strategis bagi pengambil keputusan.
-Analisis mencakup tren waktu, pola operasional, dampak cuaca, segmentasi pelanggan, hingga penerapan **Advanced Analytics** seperti Clustering dan Forecasting.
+Dashboard ini dibangun untuk menganalisis data penyewaan sepeda (*Bike Sharing System*) guna memberikan wawasan bisnis strategis bagi pengambil keputusan.
+Analisis mencakup tren waktu, pola operasional, dampak cuaca, segmentasi pelanggan, hingga penerapan *Advanced Analytics* seperti *Clustering* dan *Forecasting*.
 
 ---
 
@@ -50,15 +50,15 @@ Dashboard ini menjawab *12 Pertanyaan Bisnis* krusial :
 
 1.  *Tren Tahunan:* Bagaimana performa pertumbuhan bisnis dari 2011 ke 2012?
 2.  *Suhu:* Seberapa kuat korelasi suhu terhadap jumlah penyewaan?
-3.  *Jam Sibuk:* Kapan waktu tersibuk (Peak Hours) untuk operasional?
+3.  *Jam Sibuk:* Kapan waktu tersibuk (*Peak Hours*) untuk operasional?
 4.  *Hari Kerja:* Apakah pengguna lebih aktif di hari kerja atau libur?
-5.  *Musim:* Musim apa yang paling menguntungkan (Highest Demand)?
+5.  *Musim:* Musim apa yang paling menguntungkan (*Highest Demand*)?
 6.  *Kelembaban:* Bagaimana pengaruh kelembaban udara terhadap kenyamanan?
 7.  *Cuaca Ekstrem:* Seberapa besar penurunan saat hujan/salju?
 8.  *Hari Terbaik:* Hari apa dalam seminggu yang paling ramai?
-9.  *Tipe User:* Berapa proporsi antara Member (Registered) vs Turis (Casual)?
+9.  *Tipe User:* Berapa proporsi antara Member (*Registered*) vs Turis (*Casual*)?
 10. *Angin:* Apakah kecepatan angin mempengaruhi keselamatan bersepeda?
-11. *Pola Bulanan:* Bulan apa yang harus dihindari untuk promosi (Low Season)?
+11. *Pola Bulanan:* Bulan apa yang harus dihindari untuk promosi (*Low Season*)?
 12. *Perilaku User:* Bagaimana beda pola jam main antara Member dan Casual?
     
 ---
@@ -75,7 +75,7 @@ Dashboard ini menjawab *12 Pertanyaan Bisnis* krusial :
    Mengumpulkan dataset Bike Sharing (day.csv & hour.csv) serta menyiapkan library Python (pandas, matplotlib, seaborn, folium, sklearn) untuk analisis.]
   
 3. *Memproses Data (Process)* :
-   Membersihkan data dengan menangani missing values, mengubah tipe data tanggal (datetime), dan melakukan mapping label (musim, cuaca, hari) agar mudah diinterpretasi.
+   Membersihkan data dengan menangani *missing values*, mengubah tipe data tanggal (*datetime*), dan melakukan mapping label (musim, cuaca, hari) agar mudah diinterpretasi.
 
 4. *Exploratory Data Analysis (Analyze):*
    Menganalisis data secara statistik dan visual untuk menjawab pertanyaan bisnis, serta menerapkan teknik lanjutan:
@@ -105,4 +105,14 @@ Menyusun strategi bisnis berdasarkan insight: fokus pada retensi member, optimas
 
 ---
 
+# Struktur Repository
 
+├── dashboard.jpeg        #Screenshot Dashboard                                                                                                                                                                     
+├── dashboard UAS.py      # File utama untuk menjalankan Dashboard Streamlit
+├── day.csv               # Dataset harian (sumber data utama)
+├── hour.csv              # Dataset per jam (sumber data untuk analisis jam)
+├── IF1_Kelompok2.ipynb   # File Jupyter Notebook (tempat proses analisis data)
+├── requirements.txt      # Daftar library Python yang dibutuhkan (pip install)
+└── README.md             # Dokumentasi lengkap proyek (judul, anggota, cara pakai)
+
+---
