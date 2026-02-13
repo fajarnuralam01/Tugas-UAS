@@ -12,7 +12,9 @@ Analisis mencakup tren waktu, pola operasional, dampak cuaca, segmentasi pelangg
 - **Kelas** : IF-1
 - **Anggota** :
   - Adrian Mulya Wijaya (10124016)<br>
-    ()
+    (Pertanyaan 1: Analisis performa penyewaan sepeda dalam beberapa tahun terakhir (Tren meningkat/menurun).
+
+Pertanyaan 2: Analisis korelasi antara suhu (temp) dengan jumlah penyewaan.)
     
   - Muhammad Rifky Sandi Yudha (10124027)<br>
     ()
